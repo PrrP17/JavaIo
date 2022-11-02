@@ -17,6 +17,8 @@ public class Main {
 
         Escrita esc = new Escrita();
         Copia pc = new Copia();
+        TesteEscrita tc = new TesteEscrita();
+        TesteEscrita3 ts = new TesteEscrita3();
 
 
 
